@@ -621,6 +621,10 @@ footer .social a:hover {
     margin-right: auto;
   }
 
+  .testimonials {
+    overflow: hidden;
+  }
+
   /*! Contact */
   #contact .container {
     grid-auto-flow: column;
@@ -647,6 +651,7 @@ footer .social a:hover {
   }
 }
 /* large devices: 1023 > */
+
 /* large devices: 992 > */
 @media (min-width: 992px) {
   :root {
